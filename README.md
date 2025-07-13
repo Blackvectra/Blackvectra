@@ -12,9 +12,9 @@
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://mattlevorson.com"><img src="https://img.shields.io/badge/Website-nextlayersec.io-black?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://nextlayersec.dev"><img src="https://img.shields.io/badge/LinkedIn-nextlayersec.dev-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://nextlayersec.dev"><img src="https://img.shields.io/badge/LinkedIn-nextlayersec.dev-black?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://tryhackme.com/p/mlevorson"><img src="https://img.shields.io/badge/TryHackMe-mlevorson-red?style=for-the-badge&logo=tryhackme"/></a>
-  <a href="https://app.letsdefend.io/user/blackvectra"><img src="https://img.shields.io/badge/LetsDefend-blackvectra-blue?style=for-the-badge&logo=letsdefend&logoColor=white"/></a>
+  <a href="https://app.letsdefend.io/user/blackvectra"><img src="https://img.shields.io/badge/LetsDefend-blackvectra-black?style=for-the-badge&logo=letsdefend&logoColor=white"/></a>
 </p>
 
 ---

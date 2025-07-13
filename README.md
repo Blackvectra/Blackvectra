@@ -1,8 +1,9 @@
-## Hi there 👋
-<h1 align="center">nextlayersec</h1>
+## Welcome to blackvectra 👋
+<h1 align="center">nextlayersec.io</h1>
 <p align="center">
-  <i>Cybersecurity Anaylyst • Blue Team Focus • CTF Competitor</i><br>
-  <i>ISC2 CC | CompTIA A+ | Security+ | CySA+ & SSCP in progress</i><br>
+  <i>Cybersecurity Analyst • Blue Team Focus • CTF Competitor</i><br>
+  <i>ISC2 CC | CompTIA A+ | Security+ | 
+    CySA+ & SSCP in progress</i><br>
   <i>Red/Blue Team Labs • CTFs • Certification Tracker • Master's Goal</i>
 </p>
 

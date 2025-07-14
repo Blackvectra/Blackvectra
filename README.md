@@ -57,7 +57,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=blackvectra&theme=github-dark"/>
    <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mlevorson.png" alt="Your Image Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4796927" style='border:none;'></iframe>
 </p>
 
 

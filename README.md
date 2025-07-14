@@ -42,6 +42,12 @@
 
 - [**nextlayersec-notes**](https://github.com/blackvectra/nextlayersec-notes)  
   Red and Blue team study notes, certification prep, cheat sheets, and command references.
+  
+- [**certification-tracker**](https://github.com/blackvectra/certification-tracker)  
+  Tracks all cybersecurity certifications: completed, in-progress, and future goals — includes progress bars, badge shields, and Gantt timelines.
+
+- [**cybersecurity-guides**](https://github.com/blackvectra/cybersecurity-guides)  
+  Blue team playbooks, detection workflows, purple team lab guidance, and threat intel documentation for SOCs and students.
 
 ---
 

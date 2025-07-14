@@ -56,7 +56,7 @@
 
 ### 🔮 Lab Banner
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackvectra/blackvectra/main/banner.png" alt="Blue Team Banner"/>
+  <img src="https://raw.githubusercontent.com/blackvectra/blackvectra/main/nextlayersec.png" alt="NextLayerSec"/>
 </p>
 
 ---

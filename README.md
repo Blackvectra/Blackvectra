@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="branding/cli_preview.png" alt="ThreatFeedCollector CLI Preview" width="600"/>
+  <img src="branding/logo.svg" alt="ThreatFeedCollector CLI Preview" width="180"/>
 </p>
 
 ---

@@ -1,4 +1,9 @@
-## Welcome to blackvectra 👋
+<p align="center">
+  <img src="branding/cli_preview.png" alt="ThreatFeedCollector CLI Preview" width="600"/>
+</p>
+
+---
+
 <h1 align="center">nextlayersec.io</h1>
 <p align="center">
   <i>Cybersecurity Analyst • Blue Team Focus • CTF Competitor</i><br>
@@ -34,34 +39,38 @@
 ---
 
 ### 📌 Featured Projects
-- [**ethical-hacking-lab**](https://github.com/blackvectra/ethical-hacking-lab)  
+
+- [**ethical-hacking-lab**](https://github.com/blackvectra/ethical-hacking-lab):  
   Full offensive security lab simulating Linux, Windows, and WebApp attack scenarios with persistence, privesc, and more.
 
-- [**ctf-writeups**](https://github.com/blackvectra/ctf-writeups)  
+- [**ctf-writeups**](https://github.com/blackvectra/ctf-writeups):  
   Writeups from TryHackMe, NCL, and custom CTFs — includes payloads, command chains, and flags.
 
-- [**nextlayersec-notes**](https://github.com/blackvectra/nextlayersec-notes)  
+- [**nextlayersec-notes**](https://github.com/blackvectra/nextlayersec-notes):  
   Red and Blue team study notes, certification prep, cheat sheets, and command references.
-  
-- [**certification-tracker**](https://github.com/blackvectra/certification-tracker)  
+
+- [**certification-tracker**](https://github.com/blackvectra/certification-tracker):  
   Tracks all cybersecurity certifications: completed, in-progress, and future goals — includes progress bars, badge shields, and Gantt timelines.
 
-- [**cybersecurity-guides**](https://github.com/blackvectra/cybersecurity-guides)  
+- [**cybersecurity-guides**](https://github.com/blackvectra/cybersecurity-guides):  
   Blue team playbooks, detection workflows, purple team lab guidance, and threat intel documentation for SOCs and students.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackvectra&show_icons=true&theme=github_dark"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=blackvectra&theme=github-dark"/>
-   <br/>
- <img src="https://tryhackme-badges.s3.amazonaws.com/mlevorson.png" alt="Your Image Badge" />
+  <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mlevorson.png" alt="TryHackMe Badge" />
 </p>
 
+---
 
 ### 🔮 Lab Banner
+
 <p align="center">
   <img src="https://github.com/Blackvectra/Blackvectra/blob/main/nextlayersec.png" alt="NextLayerSec" width="600"/>
 </p>
@@ -69,6 +78,7 @@
 ---
 
 ### 🔄 Coming Soon
+
 - Detection Rule Repos (Sigma, Elastic, Defender)
 - Live Lab Topology Visualization
 - GitHub Pages Lab Hub (labs.nextlayersec.io)
@@ -81,7 +91,6 @@
 **Blackvectra/Blackvectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

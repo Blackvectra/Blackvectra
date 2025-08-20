@@ -69,7 +69,6 @@
 
 - Detection Rule Repos (Sigma, Elastic, Defender)  
 - Live Lab Topology Visualization  
-- GitHub Pages Lab Hub → [labs.nextlayersec.io](https://labs.nextlayersec.io)  
 
 ---
 

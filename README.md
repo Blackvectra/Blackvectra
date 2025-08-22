@@ -41,7 +41,7 @@
 ### 📌 Featured Repositories
 
 #### 🔴 Offensive Security
-- [**ethical-hacking-lab**](https://github.com/blackvectra/ethical-hacking-lab) – Simulated attack lab (Windows, Linux, WebApp) with privesc & persistence.  
+- [**ethical-hacking-lab**][(https://github.com/Blackvectra/CyberSecurity-lab-vault/blob/main/Penetration-Testing/ethical-hacking-lab.md) ]– Simulated attack lab (Windows, Linux, WebApp) with privesc & persistence.  
 - [**ctf-writeups**](https://github.com/blackvectra/ctf-writeups) – Writeups from TryHackMe, NCL, and CTFs — payloads, flags, and command chains.  
 
 #### 🔵 Defensive Security

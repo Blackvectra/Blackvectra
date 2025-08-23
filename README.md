@@ -42,14 +42,14 @@
 
 #### 🔴 Offensive Security
 - [**ethical-hacking-lab**](https://github.com/Blackvectra/CyberSecurity-lab-vault/blob/main/Penetration-Testing/ethical-hacking-lab.md) – Simulated attack lab (Windows, Linux, WebApp) with privesc & persistence.  
-- [**ctf-writeups**](https://github.com/blackvectra/ctf-writeups) – Writeups from TryHackMe, NCL, and CTFs — payloads, flags, and command chains.  
+- [**ctf-writeups**](https://github.com/Blackvectra/nextlayersec/tree/main/notes/ctf-writeups) – Writeups from TryHackMe, NCL, and CTFs — payloads, flags, and command chains.  
 
 #### 🔵 Defensive Security
-- [**cybersecurity-guides**](https://github.com/blackvectra/cybersecurity-guides) – Blue team playbooks, SOC workflows, threat intel docs.  
+- [**cybersecurity-guides**](https://github.com/Blackvectra/nextlayersec/tree/main/guides) – Blue team playbooks, SOC workflows, threat intel docs.  
 - [**nextlayersec-notes**](https://github.com/Blackvectra/nextlayersec/blob/main/notes/README.md) – Study notes, cheat sheets, and certification prep.
 
 #### 🎓 Career & Roadmap
-- [**certification-tracker**](https://github.com/blackvectra/certification-tracker) – Track completed + in-progress certifications with progress bars and timelines.  
+- [**certification-tracker**](https://github.com/Blackvectra/nextlayersec/tree/main/cert-tracker) – Track completed + in-progress certifications with progress bars and timelines.  
 
 ---
 

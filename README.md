@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  ✨ Built by <b>Blackvectra</b> • <a href="https://nextlayersec.io">nextlayersec.io</a>
+  ✨ Built by <b>Matthew Levorson</b> • <a href="https://nextlayersec.io">nextlayersec.io</a>
 </p>

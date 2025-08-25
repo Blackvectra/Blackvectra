@@ -67,8 +67,9 @@
 
 ### 🔮 Coming Soon
 
-- Detection Rule Repos (Sigma, Elastic, Defender)  
-- Live Lab Topology Visualization  
+- AI course notes.
+- NCL FALL 2025 Write Up
+- Detection Rule Repos (Defender)  
 
 ---
 

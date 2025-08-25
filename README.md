@@ -8,8 +8,8 @@
 <p align="center">
   <i>Cybersecurity Analyst • Blue Team Focus • CTF Competitor</i><br>
   <i>ISC2 CC | CompTIA A+ | Security+ </i><br>
-  <i>CySA+ • SSCP • Pentest+ • SecurityX (in progress)</i><br>
-  <i>Red/Blue Team Labs • CTFs • Certification Tracker • Master's Goal</i>
+  <i>Network+ • Linux+ • CySA+ •Pentest+ • SecurityX (in progress)</i><br>
+  <i>Red/Blue Team Labs • CTFs • Certification Tracker • Master's Goal Fall 2026</i>
 </p>
 
 ---

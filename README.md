@@ -1,79 +1,116 @@
 <p align="center">
-  <img src="branding/logo.svg" alt="NextLayerSec Labs Logo" width="180"/>
+  <img src="branding/logo.svg" alt="NextLayerSec Logo" width="150"/>
 </p>
 
----
+<h1 align="center">Matthew Levorson</h1>
 
-<h1 align="center">nextlayersec.io</h1>
 <p align="center">
-  <i>Cybersecurity Analyst • Blue Team Focus • CTF Competitor</i><br>
-  <i>ISC2 CC | CompTIA A+ | Security+ </i><br>
-  <i>Network+ • Linux+ • CySA+ • Pentest+ (in progress)</i><br>
-  <i>SecurityX in the (future goal)</i><br>
-  <i>Red/Blue Team Labs • CTFs • Certification Tracker • Master's Goal Fall 2026</i>
+  <i>Security Engineer • Security Operations • Blue Team</i><br>
+  <i>Endpoint • Identity • Microsoft Security Stack</i>
 </p>
 
----
-
-### 🔗 Connect With Me
 <p align="center">
-  <a href="https://mattlevorson.com"><img src="https://img.shields.io/badge/Website-nextlayersec.io-black?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://nextlayersec.dev"><img src="https://img.shields.io/badge/LinkedIn-nextlayersec.dev-black?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://tryhackme.com/p/mlevorson"><img src="https://img.shields.io/badge/TryHackMe-mlevorson-black?style=for-the-badge&logo=tryhackme"/></a>
-  <a href="https://app.letsdefend.io/user/blackvectra"><img src="https://img.shields.io/badge/LetsDefend-blackvectra-black?style=for-the-badge&logo=letsdefend&logoColor=white"/></a>
+  <i>ISC2 CC | CompTIA A+ | Network+ | Security+ | Linux+</i><br>
+  <i>CySA+ • SSCP • PenTest+ (in progress)</i>
 </p>
 
 ---
 
-### ⚔️ Tools & Platforms
+### 🔗 Professional Links
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Nmap-4F5B93?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
+  <a href="https://nextlayersec.io">
+    <img src="https://img.shields.io/badge/Website-nextlayersec.io-black?style=for-the-badge&logo=firefox"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Matthew%20Levorson-black?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-### 📌 Featured Repositories
+## 🧭 Professional Summary
 
-#### 🔴 Offensive Security
-- [**ethical-hacking-lab**](https://github.com/Blackvectra/CyberSecurity-lab-vault/blob/main/Penetration-Testing/ethical-hacking-lab.md) – Simulated attack lab (Windows, Linux, WebApp) with privesc & persistence.  
-- [**ctf-writeups**](https://github.com/Blackvectra/nextlayersec/tree/main/notes/ctf-writeups) – Writeups from TryHackMe, NCL, and CTFs — payloads, flags, and command chains.  
+I am a security engineer focused on **defensive security operations**, endpoint and
+identity protection, and incident response within Microsoft-centric environments.
 
-#### 🔵 Defensive Security
-- [**cybersecurity-guides**](https://github.com/Blackvectra/nextlayersec/tree/main/guides) – Blue team playbooks, SOC workflows, threat intel docs.  
-- [**nextlayersec-notes**](https://github.com/Blackvectra/nextlayersec/blob/main/notes/README.md) – Study notes, cheat sheets, and certification prep.
+My work emphasizes:
+- Practical detection and investigation fundamentals
+- Governance, procedures, and repeatability
+- Security operations in real business environments
+- Clear documentation that supports auditability, handoff, and scale
 
-#### 🎓 Career & Roadmap
-- [**certification-tracker**](https://github.com/Blackvectra/nextlayersec/tree/main/cert-tracker) – Track completed + in-progress certifications with progress bars and timelines.  
+I prioritize **how security is actually operated** over tool sprawl or theoretical controls.
 
 ---
 
-### 📊 GitHub & Learning Stats
+## 🛡️ Primary Work — Operations Guide
+
+**Operations Guide** is my primary body of work and represents how I approach
+security engineering in practice.
+
+It is a governed security operations framework that consolidates:
+
+- Endpoint investigation and triage workflows
+- Ransomware, malware, and BEC response procedures
+- Windows, Linux, macOS, and Exchange command references
+- Security hardening baselines
+- Threat behavior education (beaconing, persistence, lateral movement)
+- Framework-aligned governance (NIST CSF, CIS Controls, MITRE ATT&CK)
+- Structured incident documentation
+- Safe, gated automation guidance
+
+The repository is intentionally designed to resemble **internal security operations
+documentation** used by professional teams and serves as a single source of truth
+for how security work is performed.
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Defender%20for%20Endpoint-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Defender%20for%20Office%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysinternals-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark"/>
+  <img src="https://img.shields.io/badge/CyberChef-000000?style=flat-square"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux"/>
+  <img src="https://img.shields.io/badge/Nmap-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackvectra&show_icons=true&theme=github_dark"/>
-  <br/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=blackvectra&theme=github-dark"/>
-  <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mlevorson.png" alt="TryHackMe Badge" />
 </p>
 
 ---
 
-### 🔮 Coming Soon
+## 🔮 Current Focus
 
-- AI course notes.
-- NCL FALL 2025 Write Up
-- Detection Rule Repos (Defender)  
+- Operations Guide (security operations framework)
+- Microsoft Defender detection and investigation
+- Endpoint and identity hardening
+- Incident response documentation and automation
+- Continuous blue team skill development
 
 ---
 
 <p align="center">
-  ✨ Built by <b>Matthew Levorson</b> • <a href="https://nextlayersec.io">nextlayersec.io</a>
+  <b>Matthew Levorson</b> • <a href="https://nextlayersec.io">nextlayersec.io</a>
 </p>

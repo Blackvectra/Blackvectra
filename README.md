@@ -11,6 +11,7 @@
 
 <p align="center">
   <i>ISC2 CC | CompTIA A+ | Network+ | Security+ | Linux+</i><br>
+ 
   <i>CySA+ • SSCP • PenTest+ (in progress)</i>
 </p>
 

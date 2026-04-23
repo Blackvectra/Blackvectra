@@ -11,7 +11,7 @@
 
 <p align="center">
   <i>ISC2 CC | CompTIA A+ | Network+ | Security+ | Linux+</i><br>
-  <br><i>SSCP • CySA+ • AZ-500 (in progress)</i><br>
+  <br><i>SSCP • CySA+ • SC-200 (in progress)</i><br>
 </p>
 
 ---

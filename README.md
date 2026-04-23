@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="branding/logo.svg" alt="NextLayerSec Logo" width="150"/>
+  <img src="branding/logo.svg" alt="NextLayerSec Logo" width="400"/>
 </p>
 
 <h1 align="center">Matthew Levorson</h1>

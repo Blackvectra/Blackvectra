@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <i>ISC2 CC | CompTIA A+ | Network+ | Security+ | Linux+</i><br>
-  <br><i>SSCP • CySA+ • SC-200 (in progress)</i><br>
+  <i>ISC2 CC | CompTIA A+ | Network+ | Security+ |CySA+ | Linux+</i><br>
+  <br><i>SSCP • Pentest + • SecAI+ • SC-200 (in progress)</i><br>
 </p>
 
 ---

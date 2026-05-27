@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <i>ISC2 CC | CompTIA A+ | Network+ | Security+ | CySA+ | Linux+</i><br>
-  <br><i>SSCP • Pentest + • SecAI+ • SC-200 (in progress)</i><br>
+  <b>Held:</b> ISC2 CC • CompTIA A+ • Network+ • Security+ • CySA+ • Linux+<br>
+  <b>In progress:</b> SSCP • Pentest+ • SecAI+ • SC-200
 </p>
 
 ---
@@ -46,7 +46,22 @@ My work emphasizes:
 
 ---
 
-## Active Projects
+## Featured Projects
+
+### NRG Assessment Tool
+Microsoft 365 security assessment framework for MSPs. Multi-framework, multi-tenant,
+client-ready reporting. 30+ controls across legacy auth, transport hardening, Defender
+policies, audit logging, and email authentication. Color-coded pass/fail output with
+CSV export.
+
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)]()
+[![M365](https://img.shields.io/badge/M365-0078D4?style=flat-square&logo=microsoft&logoColor=white)]()
+[![NIST 800-53](https://img.shields.io/badge/NIST-800--53-005288?style=flat-square)]()
+[![CIS](https://img.shields.io/badge/CIS-Benchmark-grey?style=flat-square)]()
+
+**Repo:** [NRG-Assessment-Tool](https://github.com/Blackvectra/NRG-Assessment-Tool)
+
+---
 
 ### NextLayerSec Email Security Framework
 Complete email security hardening framework deployed across multiple domains under
@@ -65,30 +80,24 @@ a single M365 Business Premium tenant. Every control implemented and validated i
 - TLS-RPT reporting configured
 - Full Exchange Online hardening via PowerShell
 
-**Repos:** [nextlayersec-email-security](https://github.com/Blackvectra/nextlayersec-email-security) |
-[nextlayersec-mta-sts](https://github.com/Blackvectra/nextlayersec-mta-sts) |
-[nextlayersec-dev-mta-sts](https://github.com/Blackvectra/nextlayersec-dev-mta-sts) |
-[blackvectra.github.io](https://github.com/Blackvectra/blackvectra.github.io)
+**Repo:** [nextlayersec-email-security](https://github.com/Blackvectra/nextlayersec-email-security)
 
 ---
 
-### M365 Security Baseline Tool
-PowerShell script that runs a comprehensive security baseline check against any M365
-Business Premium tenant. 30+ controls across legacy auth, transport hardening, Defender
-policies, audit logging, and email authentication. Color-coded pass/fail terminal output
-with optional CSV export. No configuration required -- runs against any connected tenant.
+### NextLayerSec Assessment
+Read-only M365 security assessment instrument. Maps Exchange Online and Entra ID controls
+to NIST SP 800-53, CIS v8.1, HIPAA current rule, and HIPAA NPRM proposed rule. Produces
+structured markdown findings for client deliverables.
 
-**Repo:** [nextlayersec-m365-hardening](https://github.com/Blackvectra/nextlayersec-m365-hardening)
+**Repo:** [nextlayersec-assessment](https://github.com/Blackvectra/nextlayersec-assessment)
 
 ---
 
-### Email Security Assessment Tool
-Domain assessment script that checks the full email security stack via public DNS lookups.
-No tenant access required. Checks SPF, DKIM, DMARC, MTA-STS, DNSSEC, TLS-RPT, BIMI,
-and CAA records against any domain. Detects mail provider, DNSSEC-aware MX endpoints,
-and enforcement levels.
+### NextLayerSec Guides
+Blue team playbooks, detection workflows, purple team lab guidance, and threat intel
+documentation for SOCs and students.
 
-**Repo:** [nextlayersec-m365-hardening](https://github.com/Blackvectra/nextlayersec-m365-hardening)
+**Repo:** [nextlayersec-guides](https://github.com/Blackvectra/nextlayersec-guides)
 
 ---
 
@@ -149,7 +158,7 @@ and enforcement levels.
 - Email security hardening framework -- production deployment across 3 domains
 - M365 tenant hardening automation via Exchange Online PowerShell
 - SSCP retake preparation -- Domain 3 (Risk Identification, Monitoring, and Analysis)
-- CySA+ and AZ-500 cert progression
+- SC-200 and AZ-500 cert progression
 - NextLayerSec service framework development
 
 ---

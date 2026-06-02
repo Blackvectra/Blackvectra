@@ -59,6 +59,14 @@ Detection workflows, threat intelligence documentation, purple team lab guidance
 </tr>
 </table>
 
+### Callsign
+
+```dns
+_dmarc.nextlayersec.io.  IN  TXT  "v=DMARC1; p=reject; adkim=s; aspf=s; rua=mailto:reports@nextlayersec.io"
+```
+
+<sub><i>The posture I deploy on my own infrastructure.</i></sub>
+
 ### Frameworks
 
 <sub>NIST CSF 2.0 &middot; NIST SP 800-53 &middot; MITRE ATT&amp;CK &middot; CIS Controls v8 &middot; ISO/IEC 27001 &middot; RFC 8461 &middot; RFC 7489</sub>

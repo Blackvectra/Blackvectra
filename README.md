@@ -59,6 +59,12 @@ Detection workflows, threat intelligence documentation, purple team lab guidance
 </tr>
 </table>
 
+### Principles
+
+- Assume compromise; design for survivability.
+- Production-validated controls over lab posture.
+- Documentation is part of the control.
+
 ### Frameworks
 
 <sub>NIST CSF 2.0 &middot; NIST SP 800-53 &middot; MITRE ATT&amp;CK &middot; CIS Controls v8 &middot; ISO/IEC 27001 &middot; RFC 8461 &middot; RFC 7489</sub>

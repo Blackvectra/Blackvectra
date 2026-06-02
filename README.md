@@ -44,9 +44,9 @@ End-to-end SPF, DKIM, DMARC, MTA-STS, and DNSSEC deployment for Microsoft 365 te
 <tr>
 <td valign="top" width="50%">
 
-**[Compliance-Mapped Assessment](https://github.com/Blackvectra/nextlayersec-assessment)**
+**[NextLayerSec Assessment](https://github.com/Blackvectra/NLS-Assessment)**
 
-Read-only Microsoft 365 audit mapped to NIST SP 800-53, CIS v8.1, and HIPAA.
+Microsoft 365 assessment toolkit built for independent consulting engagements.
 
 </td>
 <td valign="top" width="50%">

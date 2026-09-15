@@ -14,6 +14,11 @@
   <a href="https://linkedin.com/in/matthewlevorson">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blackvectra&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackvectra&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
+</p>
+
 <br>
 
 ### About
@@ -28,9 +33,9 @@ controls aligned to NIST SP 800-53 and CIS Controls v8.
 <tr>
 <td valign="top" width="50%">
 
-**[M365 Assessment Framework](https://github.com/Blackvectra/NRG-Assessment-Tool)**
+**[NextLayerSec Assessment](https://github.com/Blackvectra/nextlayersec-assessment)**
 
-Multi-tenant security assessment producing client-ready reports mapped to NIST and CIS.
+Microsoft 365 security assessment toolkit built for independent consulting engagements.
 
 </td>
 <td valign="top" width="50%">
@@ -44,9 +49,9 @@ End-to-end SPF, DKIM, DMARC, MTA-STS, and DNSSEC deployment for Microsoft 365 te
 <tr>
 <td valign="top" width="50%">
 
-**[NextLayerSec Assessment](https://github.com/Blackvectra/NLS-Assessment)**
+**[Entra Passkey Readiness](https://github.com/Blackvectra/entra-passkey-readiness)**
 
-Microsoft 365 assessment toolkit built for independent consulting engagements.
+Assessment tooling for phishing-resistant authentication rollout across Entra ID tenants.
 
 </td>
 <td valign="top" width="50%">
@@ -59,12 +64,18 @@ Detection workflows, threat intelligence documentation, purple team lab guidance
 </tr>
 </table>
 
+### Tech Stack
+
+<sub>
+<b>Identity &amp; Tenant</b> &middot; Microsoft Entra ID &middot; Conditional Access &middot; Microsoft 365 Defender &middot; Intune<br>
+<b>Email Security</b> &middot; SPF &middot; DKIM &middot; DMARC &middot; MTA-STS &middot; DNSSEC<br>
+<b>Detection &amp; Response</b> &middot; KQL &middot; Microsoft Sentinel &middot; MITRE ATT&amp;CK<br>
+<b>Automation</b> &middot; PowerShell &middot; Microsoft Graph API<br>
+<b>Frameworks</b> &middot; NIST CSF 2.0 &middot; NIST SP 800-53 &middot; CIS Controls v8 &middot; ISO/IEC 27001
+</sub>
+
 ### Principles
 
 - Assume compromise; design for survivability.
 - Production-validated controls over lab posture.
 - Documentation is part of the control.
-
-### Frameworks
-
-<sub>NIST CSF 2.0 &middot; NIST SP 800-53 &middot; MITRE ATT&amp;CK &middot; CIS Controls v8 &middot; ISO/IEC 27001 &middot; RFC 8461 &middot; RFC 7489</sub>

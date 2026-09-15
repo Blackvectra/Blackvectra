@@ -59,12 +59,18 @@ Detection workflows, threat intelligence documentation, purple team lab guidance
 </tr>
 </table>
 
+### Tech Stack
+
+<sub>
+<b>Identity &amp; Tenant</b> &middot; Microsoft Entra ID &middot; Conditional Access &middot; Microsoft 365 Defender &middot; Intune<br>
+<b>Email Security</b> &middot; SPF &middot; DKIM &middot; DMARC &middot; MTA-STS &middot; DNSSEC<br>
+<b>Detection &amp; Response</b> &middot; KQL &middot; Microsoft Sentinel &middot; MITRE ATT&amp;CK<br>
+<b>Automation</b> &middot; PowerShell &middot; Microsoft Graph API<br>
+<b>Frameworks</b> &middot; NIST CSF 2.0 &middot; NIST SP 800-53 &middot; CIS Controls v8 &middot; ISO/IEC 27001
+</sub>
+
 ### Principles
 
 - Assume compromise; design for survivability.
 - Production-validated controls over lab posture.
 - Documentation is part of the control.
-
-### Frameworks
-
-<sub>NIST CSF 2.0 &middot; NIST SP 800-53 &middot; MITRE ATT&amp;CK &middot; CIS Controls v8 &middot; ISO/IEC 27001 &middot; RFC 8461 &middot; RFC 7489</sub>

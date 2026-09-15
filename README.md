@@ -28,9 +28,9 @@ controls aligned to NIST SP 800-53 and CIS Controls v8.
 <tr>
 <td valign="top" width="50%">
 
-**[M365 Assessment Framework](https://github.com/Blackvectra/NRG-Assessment-Tool)**
+**[NextLayerSec Assessment](https://github.com/Blackvectra/nextlayersec-assessment)**
 
-Multi-tenant security assessment producing client-ready reports mapped to NIST and CIS.
+Microsoft 365 security assessment toolkit built for independent consulting engagements.
 
 </td>
 <td valign="top" width="50%">
@@ -44,9 +44,9 @@ End-to-end SPF, DKIM, DMARC, MTA-STS, and DNSSEC deployment for Microsoft 365 te
 <tr>
 <td valign="top" width="50%">
 
-**[NextLayerSec Assessment](https://github.com/Blackvectra/NLS-Assessment)**
+**[Entra Passkey Readiness](https://github.com/Blackvectra/entra-passkey-readiness)**
 
-Microsoft 365 assessment toolkit built for independent consulting engagements.
+Assessment tooling for phishing-resistant authentication rollout across Entra ID tenants.
 
 </td>
 <td valign="top" width="50%">

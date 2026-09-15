@@ -14,11 +14,6 @@
   <a href="https://linkedin.com/in/matthewlevorson">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blackvectra&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackvectra&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
-</p>
-
 <br>
 
 ### About

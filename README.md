@@ -1,76 +1,40 @@
-<p align="center">
-  <img src="branding/logo.svg" alt="NextLayerSec" width="360"/>
-</p>
+## Matthew Levorson
 
-<h2 align="center">Matthew Levorson</h2>
+Security engineer at an MSP, working on Microsoft 365 and Entra ID security,
+email authentication, and incident response.
 
-<p align="center">
-  <i>Security Engineer &mdash; Blue Team &middot; Email Security &middot; Microsoft 365 Hardening</i>
-</p>
+**Engineering work and write-ups:** [mattlevorson.com](https://mattlevorson.com)
+&nbsp;·&nbsp;
+**Security for small businesses:** [NextLayerSec](https://nextlayersec.io)
+&nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/matthewlevorson)
 
-<p align="center">
-  <a href="https://nextlayersec.io">nextlayersec.io</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://linkedin.com/in/matthewlevorson">LinkedIn</a>
-</p>
+### Selected work
 
-<br>
+Each project below is written up on [mattlevorson.com](https://mattlevorson.com),
+and every claim there links back to evidence in the repository.
 
-### About
+- **[Microsoft 365 and Entra security assessment tool](https://github.com/Blackvectra/TenantPosture)**
+  Read-only PowerShell assessment over Microsoft Graph and Exchange Online. It
+  reports *not assessed* and *inconclusive* separately from *pass*, so a
+  permission gap never shows up as a clean result.
+- **[Email security build on my own domain](https://github.com/Blackvectra/nextlayersec-email-security)**
+  SPF, DKIM, DMARC at `p=reject`, MTA-STS in enforce mode with TLS-RPT, and
+  DNSSEC with DANE on a domain I run, with the records and validation output.
+- **[Hybrid identity lab](https://github.com/Blackvectra/hybrid-identity-lab)**
+  Active Directory to Entra ID with Entra Connect Sync: password hash sync,
+  SSPR with writeback, and Seamless SSO, tested from the user side.
 
-Independent security consultant. Email authentication, identity hardening, and
-Microsoft 365 defense for small and mid-market organizations. Production-validated
-controls aligned to NIST SP 800-53 and CIS Controls v8.
+### Tools I work with
 
-### Selected Work
+Entra ID · Conditional Access · Microsoft Defender · Intune · Exchange Online ·
+SPF / DKIM / DMARC / MTA-STS / DNSSEC · KQL · Microsoft Sentinel · PowerShell ·
+Microsoft Graph
 
-<table>
-<tr>
-<td valign="top" width="50%">
+My work is informed by NIST CSF 2.0 and the CIS Controls. That describes how
+the work is done, not a claim of compliance or certification.
 
-**[NextLayerSec Assessment](https://github.com/Blackvectra/nextlayersec-assessment)**
+### Certifications
 
-Microsoft 365 security assessment toolkit built for independent consulting engagements.
-
-</td>
-<td valign="top" width="50%">
-
-**[Email Security Framework](https://github.com/Blackvectra/nextlayersec-email-security)**
-
-End-to-end SPF, DKIM, DMARC, MTA-STS, and DNSSEC deployment for Microsoft 365 tenants.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**[Entra Passkey Readiness](https://github.com/Blackvectra/entra-passkey-readiness)**
-
-Assessment tooling for phishing-resistant authentication rollout across Entra ID tenants.
-
-</td>
-<td valign="top" width="50%">
-
-**[Blue Team Playbooks](https://github.com/Blackvectra/nextlayersec-guides)**
-
-Detection workflows, threat intelligence documentation, purple team lab guidance.
-
-</td>
-</tr>
-</table>
-
-### Tech Stack
-
-<sub>
-<b>Identity &amp; Tenant</b> &middot; Microsoft Entra ID &middot; Conditional Access &middot; Microsoft 365 Defender &middot; Intune<br>
-<b>Email Security</b> &middot; SPF &middot; DKIM &middot; DMARC &middot; MTA-STS &middot; DNSSEC<br>
-<b>Detection &amp; Response</b> &middot; KQL &middot; Microsoft Sentinel &middot; MITRE ATT&amp;CK<br>
-<b>Automation</b> &middot; PowerShell &middot; Microsoft Graph API<br>
-<b>Frameworks</b> &middot; NIST CSF 2.0 &middot; NIST SP 800-53 &middot; CIS Controls v8 &middot; ISO/IEC 27001
-</sub>
-
-### Principles
-
-- Assume compromise; design for survivability.
-- Production-validated controls over lab posture.
-- Documentation is part of the control.
+CompTIA CySA+ · CompTIA PenTest+ · CompTIA Security+ ·
+[full list](https://mattlevorson.com/certifications/)

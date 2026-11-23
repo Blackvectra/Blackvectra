@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly: a linked repository can go private or disappear with no commit here.
+    - cron: '41 7 * * 1'
+
+permissions:
+  contents: read
+
+jobs:
+  repo-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - name: Every github.com link in the README answers 200
+        run: node scripts/check-repo-links.mjs
+
+  redaction:
+    # Employer and client names must not reach this public profile. The names
+    # live in the REDACTION_DENYLIST secret (one literal string per line) so
+    # the list is not itself published.
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - name: Denylisted identifiers
+        env:
+          DENYLIST: ${{ secrets.REDACTION_DENYLIST }}
+        run: |
+          if [ -z "$DENYLIST" ]; then
+            echo "::error::REDACTION_DENYLIST secret is not set, so employer and client names are unchecked. Add it under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          printf '%s\n' "$DENYLIST" | sed '/^[[:space:]]*$/d' > "$RUNNER_TEMP/deny.txt"
+          # -l lists matching files only, so secret values never reach the log.
+          if git ls-files -z | xargs -0 grep -i -F -f "$RUNNER_TEMP/deny.txt" -l; then
+            echo "::error::Files above contain a denylisted identifier. Replace it or move it out of the public repository."
+            exit 1
+          fi

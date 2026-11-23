@@ -14,10 +14,10 @@ email authentication, and incident response.
 Each project below is written up on [mattlevorson.com](https://mattlevorson.com),
 and every claim there links back to evidence in the repository.
 
-- **[Microsoft 365 and Entra security assessment tool](https://github.com/Blackvectra/TenantPosture)**
-  Read-only PowerShell assessment over Microsoft Graph and Exchange Online. It
-  reports *not assessed* and *inconclusive* separately from *pass*, so a
-  permission gap never shows up as a clean result.
+- **[Entra passkey readiness assessment](https://github.com/Blackvectra/entra-passkey-readiness)**
+  Read-only PowerShell 7 assessment of who is exposed to Microsoft retiring SMS
+  and voice MFA in Entra ID, and who already has a passkey. Every Graph call is
+  a GET.
 - **[Email security build on my own domain](https://github.com/Blackvectra/nextlayersec-email-security)**
   SPF, DKIM, DMARC at `p=reject`, MTA-STS in enforce mode with TLS-RPT, and
   DNSSEC with DANE on a domain I run, with the records and validation output.
